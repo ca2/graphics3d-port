@@ -4,3 +4,6 @@
 [submodule "assimp"]
 	path = assimp
 	url = ../../cpp-port/assimp
+[submodule "glew"]
+	path = glew
+	url = ../../cpp-port/glew
