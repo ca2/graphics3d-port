@@ -7,3 +7,6 @@
 [submodule "glew"]
 	path = glew
 	url = ../../cpp-port/glew
+[submodule "glad"]
+	path = glad
+	url = ../glad_3.1
