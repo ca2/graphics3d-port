@@ -3,7 +3,8 @@
 	url = ../../g-truc/glm
 [submodule "assimp"]
 	path = assimp
-	url = ../../cpp-port/assimp
+	url = ../../assimp/assimp
+	branch = master
 [submodule "glew"]
 	path = glew
 	url = ../../cpp-port/glew
