@@ -1,9 +1,10 @@
 [submodule "glm"]
 	path = glm
 	url = ../../g-truc/glm
-[submodule "glew"]
-	path = glew
-	url = ../../cpp-port/glew
+[submodule "assimp"]
+	path = assimp
+	url = ../../assimp/assimp
+	branch = master
 [submodule "glad"]
 	path = glad
 	url = ../glad_3.1
