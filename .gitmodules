@@ -12,3 +12,15 @@
 	path = poly2tri
 	url = ../../cpp-port/poly2tri
 	branch = main
+[submodule "tinygltf"]
+	path = tinygltf
+	url = ../../cpp-port/tinygltf
+	branch = main
+[submodule "tinyusdz"]
+	path = tinyusdz
+	url = ../../cpp-port/tinyusdz
+	branch = main
+[submodule "ktx"]
+	path = ktx
+	url = ../../cpp-port/ktx
+	branch = main
